@@ -22,3 +22,9 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/vivekprcs/JetCanvas.git
+
+   ## Screenshots
+
+![Football Ground UI](/photo_2024-09-09_00-04-05.jpg)
+
+
