@@ -1,0 +1,48 @@
+# Ignore .idea folder except for certain files
+.idea/*
+!.idea/codeStyles/
+!.idea/inspectionProfiles/
+!.idea/vcs.xml
+
+# Ignore specific .idea files
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Ignore build output and gradle files
+/build
+/.gradle
+/local.properties
+
+# Ignore generated files
+*.iml
+
+# Ignore Android Studio specific files
+/captures
+/.cxx/
+.externalNativeBuild/
+local.properties
+
+# Ignore crashlytics and fabric-related files
+**/fabric.properties
+**/crashlytics.properties
+
+# Ignore temporary files created by operating systems or editors
+.DS_Store       # MacOS
+*.swp           # Linux
+Thumbs.db       # Windows
+
+# Ignore log files
+*.log
+
+# Ignore virtual environment files
+.venv/
+env/
+venv/
+
+
+# Ignore test coverage files
+coverage/
